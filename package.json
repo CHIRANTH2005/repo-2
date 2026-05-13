@@ -1,0 +1,22 @@
+{
+  "name": "repo-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test passed",
+    "build": "echo build successful"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHIRANTH2005/repo-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CHIRANTH2005/repo-2/issues"
+  },
+  "homepage": "https://github.com/CHIRANTH2005/repo-2#readme"
+}
