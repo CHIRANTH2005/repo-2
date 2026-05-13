@@ -1,0 +1,16 @@
+{
+  "stages": [
+    {
+      "name": "Install",
+      "command": "npm install"
+    },
+    {
+      "name": "Test",
+      "command": "npm test"
+    },
+    {
+      "name": "Build",
+      "command": "npm run build"
+    }
+  ]
+}
